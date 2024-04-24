@@ -1,0 +1,58 @@
+{
+    "status": "ok",
+    "totalResults": 37,
+    "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "JEFF AMY",
+            "title": "As Trump and Republicans target Georgia's Fani Willis for retribution, the state's governor opts out - Yahoo News",
+            "description": "Some Republicans in Washington and Georgia began attacking Fulton County District Attorney Fani Willis immediately after she announced the Aug. 14 indictment...",
+            "url": "https://news.yahoo.com/trump-republicans-target-georgias-fani-040755203.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/EZwowMxOM9arPJoTKDUgJQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/ap.org/95830a7fe842d22e20e7a5efca9685bd",
+            "publishedAt": "2023-08-30T04:07:00Z",
+            "content": "ATLANTA (AP) Some Republicans in Washington and Georgia began attacking Fulton County District Attorney Fani Willis immediately after she announced the Aug. 14 indictment of former President Donald T… [+6804 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Alli Rosenbloom",
+            "title": "Former 'Bachelorette' contestant Josh Seiter is 'alive and well' after his own Instagram account announced his death - CNN",
+            "description": "Josh Seiter, a former contestant on ABC’s dating reality show “The Bachelorette,” says he is “alive and well” after a statement announcing his death was posted to his verified Instagram page on Monday — triggering international coverage.",
+            "url": "https://www.cnn.com/2023/08/29/entertainment/josh-seiter-the-bachelorette/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230828161041-josh-seiter.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-08-30T03:21:00Z",
+            "content": "Editors Note: If you or someone you know is struggling with suicidal thoughts or mental health matters, please call or text the 988 Suicide &amp; Crisis Lifeline to connect with a trained counselor o… [+2608 chars]"
+        },
+        {
+            "source": {
+                "id": "al-jazeera-english",
+                "name": "Al Jazeera English"
+            },
+            "author": "Al Jazeera",
+            "title": "Ukrainian drones attack Russian airport in large-scale raid on six regions - Al Jazeera English",
+            "description": "Raids come as Russia launches largest missile and drone attack on Ukraine capital in months.",
+            "url": "https://www.aljazeera.com/news/2023/8/30/airport-in-western-russia-attacked-by-drones-aircraft-damaged-reports",
+            "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2023/08/AP23242107347964-1-1693369882.jpg?resize=1200%2C675",
+            "publishedAt": "2023-08-30T03:02:53Z",
+            "content": "Russia said that Ukraine launched drones against targets in six Russian regions, including an attack on an airport in the western city of Pskov located near the borders of Latvia and Estonia where mi… [+4808 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Sarah Rumpf-Whitten",
+            "title": "Massachusetts sees first two cases of deadly West Nile virus - Fox News",
+            "description": "Two Massachusetts residents have contracted the mosquito-born West Nile virus in what is allegedly the state's first human cases of the year.",
+            "url": "https://www.foxnews.com/health/massachusetts-sees-first-two-cases-deadly-west-nile-virus",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2023/06/KY-Mosquito.jpg",
+            "publishedAt": "2023-08-30T02:49:00Z",
+            "content": "Two Massachusetts residents have contracted the mosquito-born West Nile virus in the state's first human cases of the year.\r\nThe Massachusetts Department of Public Health (DPH) announced Tuesday, Aug… [+3352 chars]"
+        }
+    ]
+}
